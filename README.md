@@ -7,13 +7,13 @@
 
 
 <p align="center">
-        <samp>「 Hi, I'm a Full stack python web developer from Meerut , India. Python Programing and proficient knowledge of Django Web development , I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project. 」
+        <samp> Hi, I'm a Full stack python web developer from Meerut , India. Python Programing and proficient knowledge of Django Web development , I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project.
         </samp>
 </p>
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/shubham-kumar-266652237/" target="blank">
+ <a href="https://www.linkedin.com/in/shubham-kumar-266652237/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
  </a>
  <a href="https://github.com/ShubhamMca88" target="_blank">
