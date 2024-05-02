@@ -11,7 +11,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/shubham-kumar-266652237/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
  <a href="https://github.com/ShubhamMca88" target="_blank">
   <img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
