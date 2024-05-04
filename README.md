@@ -26,7 +26,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # Connect me
  
 <p>
 
