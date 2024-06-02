@@ -17,13 +17,11 @@
 
 ## Project title
 
-This repository contains the code for Simple resume website templates using django .
+This repository contains the code for Simple readme file for projects .
 
 ## Features
 
 - Responsive design
-- Portfolio showcase
-- About Me section
 - Contact form
 
 ## Use To Technology
